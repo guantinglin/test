@@ -9,6 +9,10 @@ python3 setup.py install
 ```
 
 ## Download the pre-trained weights 
+```
+# put the model in this respository
+mkdir trained
+```
 You can download the pre-trained weights trained on Pascal VOC from [here](https://drive.google.com/drive/folders/1k23TpBDsP9_gnb3LZlEcYyF4yoVzW99Z)
 # How to run
 ```
